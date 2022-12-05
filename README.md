@@ -3,27 +3,25 @@
 **팀 구성**
 - 20151970 진용원
 
+## 뉴스제목과 머신러닝을 이용한 주가예측
 
-## <u>Teamate</u> Project Background
+## Project Background
 - ### 필요성
   - 현재 재테크 수단으로써 주식이 개인투자자들의 많은 관심을 받고있으며, 주식 개인투자자들의 숫자도 늘어나고있음.
   - 주식시장을 분석함에 있어서 여러가지 방법론중 뉴스제목과 인공지능을 이용하여 접근해보고자함.
 - ### 기존 해결책의 문제점
-  - OOO
-  - OOO
+  - 기존의 주가, 보조지표 등을 활용한 예측방법과는 다르게 접근해보고자함.
   
 ## System Design
+![사진2](https://user-images.githubusercontent.com/113576244/205680744-f166c94a-af30-4a33-a4da-8ab129beeca8.png)
+
   - ### System Requirements
     - 주가데이터와 네이버 뉴스 헤드라인을 날짜별로 크롤링
-    - 주가 데이터를 기반으로 모델 학습 및 예측
-    
-## Case Study
-  - ### Description
-  
-  
+    - 크롤링한 데이터를 기반으로 모델 학습 및 예측
+
 ## Conclusion
-  - ### OOO
-  - ### OOO
+  - ### 주가와 뉴스사이의 상관관계를 찾아볼 수 있었다는 점에 의의가 있었습니다.
+  - ### 정확도는 약 60%정도를 기록하였습니다.
+  - ![캡처](https://user-images.githubusercontent.com/113576244/205682901-575b0b05-b15c-4d9c-91c3-e7ad715872a1.PNG)
+
   
-## Project Outcome
-- ### 20XX 년 OO학술대회 
